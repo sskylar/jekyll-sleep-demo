@@ -1,5 +1,6 @@
 ---
 title: Sleep demo
+theme: minima
 timezone: UTC
 collections:
   posts:
