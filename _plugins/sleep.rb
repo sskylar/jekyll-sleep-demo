@@ -1,3 +1,3 @@
 Jekyll::Hooks.register :posts, :post_render do |post|
-  sleep 10
+  sleep 30
 end
