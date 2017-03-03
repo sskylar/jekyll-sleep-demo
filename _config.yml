@@ -1,6 +1,5 @@
 ---
 title: Sleep demo
-theme: minima
 timezone: UTC
 collections:
   posts:
@@ -21,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
+theme: minima
 permalink: pretty
